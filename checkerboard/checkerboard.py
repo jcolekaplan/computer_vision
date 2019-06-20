@@ -1,7 +1,7 @@
 """
 Author:   Jacob Kaplan
 Date: September 14, 2018
-File:     p3_checkerboard.py
+File:     checkerboard.py
 
 Purpose: Take a directory of images, dimensions, and block size. Do one of the following based on the directory:
          1. No image in directory: Output black and white checkerboard with specified dimensions and block size
