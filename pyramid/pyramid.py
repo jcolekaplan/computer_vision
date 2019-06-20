@@ -1,6 +1,6 @@
 """
     Jacob Kaplan
-    p1_pyramid
+    pyramid.py
 
     Purpose: Write a Python program that takes a single image as input and creates a
     new image that stores the original, a half-sized copy, a quarter-sized copy,
