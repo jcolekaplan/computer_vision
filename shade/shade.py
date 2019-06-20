@@ -1,6 +1,6 @@
 """
 Author:   Jacob Kaplan
-File:     p2_shade.py
+File:     shade.py
 
 Purpose: Take an image and shade it proportionally to its size and from a specified direction (left, right, top, bottom, or center)
          The direction specified is the simulated source of light causing the shading
