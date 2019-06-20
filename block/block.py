@@ -1,7 +1,7 @@
 """
 Author:   Jacob Kaplan
 Date: September 14, 2018
-File:     p1_block.py
+File:     block.py
 
 Purpose: Reading in an image, calculating average intensity per block based on number of rows and columns given,
          building an image from those blocks based on block size given, and converting that into a binary image based
